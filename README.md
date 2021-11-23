@@ -1,6 +1,14 @@
 # telephony_test_app
 
-A new Flutter project.
+A Test project for testing telephony
+
+features tested:
+
+- Send SMS Messages
+- Query SMS Messages
+- Listen for incoming SMS
+    - Foreground
+    - Backgrounds
 
 ## Getting Started
 
